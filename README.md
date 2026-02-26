@@ -55,3 +55,19 @@ https://github.com/Harish6363/itzfizz--assignment/edit/main/README.md
 
 
 
+
+
+## 👨‍💻 Author
+
+Harish C
+
+Email: charish6363@gmail.com
+
+
+## 📌 Notes
+
+Animations are optimized using transform properties for better performance.
+
+Scroll animations are implemented using GSAP ScrollTrigger.
+
+The project is hosted using GitHub Pages.
